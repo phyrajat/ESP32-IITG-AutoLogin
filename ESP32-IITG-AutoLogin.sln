@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "ESP32-IITG-AutoLogin", "ESP32-IITG-AutoLogin.vgdbproj", "{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		Tests (Debug)|VisualGDB = Tests (Debug)|VisualGDB
+		Tests (Release)|VisualGDB = Tests (Release)|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}.Tests (Debug)|VisualGDB.ActiveCfg = Tests (Debug)|VisualGDB
+		{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}.Tests (Debug)|VisualGDB.Build.0 = Tests (Debug)|VisualGDB
+		{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}.Tests (Release)|VisualGDB.ActiveCfg = Tests (Release)|VisualGDB
+		{8DE198F2-36D7-4C5A-9837-1F68BBD16BC5}.Tests (Release)|VisualGDB.Build.0 = Tests (Release)|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E8338C-F73E-4B6C-A5C0-0FD5D67BCE8C}
+	EndGlobalSection
+EndGlobal
