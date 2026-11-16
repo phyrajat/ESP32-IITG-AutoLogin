@@ -1,10 +1,8 @@
-Debug
-Release
-VisualGDB
-*.opensdf
-*.sdf
-*.suo
-*.old
-.vs
-VisualGDBCache
-CodeDB
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+dependencies.lock
+
+# Real Wi-Fi and IITG credentials: never commit
+spiffs_image/credentials.json

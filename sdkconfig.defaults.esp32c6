@@ -1,0 +1,6 @@
+# Seeed Studio XIAO ESP32C6: user LED on GPIO 15, lit when the pin is low
+CONFIG_STATUS_LED_GPIO=15
+CONFIG_STATUS_LED_ACTIVE_LOW=y
+
+# Power the RF switch and select the on-board antenna
+CONFIG_XIAO_ESP32C6_ANTENNA_SWITCH=y
